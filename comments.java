@@ -6,7 +6,13 @@ public class comments {
         and print the value on the screen
 
          */
-        int x = 10 ; // storeg 10 in  x
+
+        // a = 2 ;
+        // b = 3 ;
+        // c = 8 ;
+
+        int x = 10 ; // storeing 10 in x
+        // x = 30;
         System.out.println(x);
 
     }

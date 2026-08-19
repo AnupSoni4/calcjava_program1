@@ -8,3 +8,7 @@ public class comments {
          */
         int x = 10 ; // storeg 10 in  x
         System.out.println(x);
+
+    }
+    
+}
